@@ -9,6 +9,8 @@ Welcome to the **AI Quiz Practice App Design** repository! This project contains
 - 📊 **Dashboard UI**: Tracks user progress and displays insights.
 
 ## 📂 Screens
+![Visualization](visualizations/1.png)
+![Visualization](visualizations/2.png)
 
 
 
